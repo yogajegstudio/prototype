@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yogajegstudio/prototype/issues"
   },
-  "homepage": "https://github.com/yogajegstudio/prototype#readme"
+  "homepage": "https://github.com/yogajegstudio/prototype#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
