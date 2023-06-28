@@ -1,4 +1,4 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/yogajegstudio/core
+	url = git@github.com:yogajegstudio/core.git
 	branch = main
